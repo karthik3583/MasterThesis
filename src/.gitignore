@@ -1,0 +1,11 @@
+genes.csv
+.idea/
+__pycache__/
+geckodriver.log
+gremlins-fork/
+noflask.out
+report_July_28_2018.txt
+errors.db
+report_August_02_2018.txt
+*.txt
+*.csv
